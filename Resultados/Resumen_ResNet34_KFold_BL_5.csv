@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+AC,0.96,1.0,0.98,198.0
+car horn,1.0,0.99,1.0,140.0
+childrens,1.0,0.98,0.99,207.0
+dog bark,0.99,1.0,0.99,211.0
+drilling,0.99,0.99,0.99,195.0
+engine,1.0,1.0,1.0,189.0
+gun shot,1.0,1.0,1.0,211.0
+jackhammer,1.0,0.99,0.99,202.0
+siren,0.99,0.97,0.98,190.0
+street music,1.0,1.0,1.0,203.0
+accuracy,0.99,0.99,0.99,0.99
+macro avg,0.99,0.99,0.99,1946.0
+weighted avg,0.99,0.99,0.99,1946.0
